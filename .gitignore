@@ -1,0 +1,27 @@
+# Archivos compilados y ejecutables
+*.exe
+*.o
+*.out
+*.obj
+*.dll
+*.so
+
+# Carpetas de compilación comunes
+build/
+bin/
+obj/
+
+# Archivos de configuración del usuario de VSCode
+#.vscode/settings.json
+#.vscode/c_cpp_properties.json
+#.vscode/*.db
+.vscode/
+
+# Archivos de depuración y temporales
+*.gch
+*.d
+*.stackdump
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
