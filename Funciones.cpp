@@ -1,3 +1,7 @@
+/*
+Autor: Manuel Rojas Tuyen
+*/
+
 #include "Funciones.h" // Se incluyen las declaraciones y tambien 'Estructuras.h'
 #include <fstream>
 #include <string>

@@ -1,3 +1,7 @@
+/*
+Autor: Manuel Rojas Tuyen
+*/
+
 #ifndef ESTRUCTURAS_H
 #define ESTRUCTURAS_H
 

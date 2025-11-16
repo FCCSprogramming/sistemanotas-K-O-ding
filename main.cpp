@@ -1,3 +1,7 @@
+/*
+Autor: Manuel Rojas Tuyen
+*/
+
 #include "Funciones.h"
 
 using std::cout;
